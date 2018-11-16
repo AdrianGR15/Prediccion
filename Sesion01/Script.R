@@ -8,8 +8,7 @@ View(datosFiltrados)
 
 mDataFiltrado <-mData[]
 
-#Creo la variable dependienteaslkghjasjldfhaslñfhasjklfjaslkñfasjfsdaf
-#kasjfgaksfdjaksl´ñjfasñfdasfd
+#Creo la variable dependienteas
 vY <- mData$rent_1 
 
 regres01 <- lm(vY ~ rent_1_mes + rent_3_meses + rent_6_meses + 
